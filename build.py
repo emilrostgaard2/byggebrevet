@@ -275,6 +275,9 @@ def footer_html():
 
 
 def page(title, description, canonical, body, schema=None, active_hub=None, sticky=None, noindex=False):
+    # Hold titlen inden for det, Google viser: drop brand-suffikset, hvis titlen er lang
+    if len(title) > 65 and title.endswith(f" | {SITE_NAME}"):
+        title = title[: -len(f" | {SITE_NAME}")]
     schema_tags = ""
     for s in (schema or []):
         schema_tags += f'<script type="application/ld+json">{json.dumps(s, ensure_ascii=False)}</script>\n'

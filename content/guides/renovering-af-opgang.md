@@ -2,7 +2,7 @@
 topic: renovering-af-opgang
 title: Renovering af opgang: pris, løsninger og planlægning
 seo_title: Renovering af opgang pris 2026 – maling, gulve og lys | Byggebrevet
-description: Hvad koster det at renovere en trappeopgang? Se priser på maling, gulve, belysning, postkasser og brandsikring, og få en guide til bestyrelsen om planlægning og tilbud.
+description: Hvad koster det at renovere en opgang? Priser på maling, gulve, belysning, postkasser og brandsikring, og en guide til bestyrelsen.
 updated: 2026-09-24
 price: 30.000–300.000 kr.
 price_note: pr. opgang, fra maling til totalrenovering
@@ -38,6 +38,17 @@ Prisen afhænger af opgangens størrelse, antal etager, vægge og lofters tilsta
 Har ejendommen flere opgange, falder prisen pr. opgang typisk, fordi håndværkerne kan arbejde effektivt fra opgang til opgang.
 
 [[cta]]
+
+## Levetid for opgangens bygningsdele
+
+| Bygningsdel | Typisk levetid | Bemærkning |
+|---|---|---|
+| Maling af vægge og lofter | 10–15 år | Afhænger af slid |
+| Linoleum på trapper | 20–30 år | Med trinforkanter |
+| Lakerede trætrin | 8–15 år før ny lak | Kan slibes flere gange |
+| LED-belysning | 15–20 år | Lavt energiforbrug |
+| Postkasser | 20–30 år | Metal holder længst |
+| Dørtelefonanlæg | 15–25 år | App-løsninger kan kræve opdateringer |
 
 ## Hvad bør indgå i renoveringen?
 
@@ -122,7 +133,7 @@ Lav gerne en prøveflade eller en prøveopgang, før hele ejendommen males. Farv
 
 ## Spørgsmål du bør stille håndværkeren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Tag spørgsmålene med til besigtigelsen, og notér svarene, så du kan sammenligne bagefter.
 
 - **Hvor meget forarbejde regner I med?** Skrab, spartel og reparationer afgør, hvor længe malingen holder.
 - **Hvilken maling og glans anbefaler I?** Opgangens nederste del skal kunne tåle slid og rengøring.

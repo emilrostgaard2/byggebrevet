@@ -2,7 +2,7 @@
 topic: carport-og-garage
 title: Carport og garage: priser, regler og materialer
 seo_title: Carport og garage pris 2026 – regler, materialer og tilbud | Byggebrevet
-description: Hvad koster en carport eller garage? Se priser på enkelt og dobbelt carport, træ- og murede garager, regler for højde og afstand til skel, og hvornår du skal have byggetilladelse.
+description: Hvad koster en carport eller garage? Priser på enkelt og dobbelt carport, træ- og murede garager samt regler for højde og afstand til skel.
 updated: 2026-09-25
 price: 25.000–350.000 kr.
 price_note: fra enkel carport til muret dobbeltgarage, opført
@@ -52,10 +52,11 @@ Oveni kommer eventuelt el til lys og stikkontakter, som skal installeres af en a
 
 Carporte, garager, udhuse og lignende småbygninger er i Bygningsreglementet omfattet af særlige regler. Ved et fritliggende enfamiliehus gælder som udgangspunkt:
 
-- **Op til 50 m² samlet.** Carporte, garager, udhuse, drivhuse og overdækninger på i alt højst 50 m² kan normalt opføres uden byggetilladelse. Kommer du over 50 m² samlet, skal du søge.
+- **Op til 50 m² samlet.** Carporte, garager, udhuse, drivhuse og overdækninger på i alt højst 50 m² kan normalt opføres uden byggetilladelse. Kommer du over 50 m² samlet, skal du søge. Ved rækkehuse og klyngehuse er grænsen typisk 20 m².
 - **Højde tæt på skel.** Bygninger nærmere end 2,5 meter fra naboskel må som udgangspunkt ikke være højere end 2,5 meter.
 - **Samlet længde mod skel.** Den samlede længde af småbygninger nærmere skel end 2,5 meter er som udgangspunkt begrænset til 12 meter mod det enkelte skel.
 - **Tagvand.** Vand fra taget må ikke ledes ind på naboens grund.
+- **Ingen åbninger mod skel.** Nærmere end 2,5 meter fra skel må der typisk ikke være vinduer eller døre mod naboen.
 - **Ingen beboelse.** Småbygninger må ikke indrettes til beboelse.
 
 Selvom du ikke skal søge byggetilladelse, skal byggeriet stadig overholde reglerne, og en garage eller carport skal typisk registreres i BBR, når den er opført. Lokalplaner og servitutter kan desuden have strengere krav til placering, størrelse, materialer og farver. Tjek altid lokalplanen på plandata.dk, før du bestiller.

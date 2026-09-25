@@ -9,7 +9,7 @@ url,type,emne,soegeord,3byggetilbud
 /nyt-tag/undertag/,underguide,Nyt tag,nyt undertag pris,tagrenovering
 /nyt-tag/tagrender-pris/,underguide,Nyt tag,nye tagrender pris,tagrenovering
 /tagmaling/,hovedguide,Tagmaling og tagrens,tagmaling og tagrens pris,tagmaling
-/tagmaling/tagmaling-pris/,underguide,Tagmaling og tagrens,tagmaling pris pr m2,tagmaling
+/tagmaling/rens-af-tegltag/,underguide,Tagmaling og tagrens,rens af tegltag,tagmaling
 /tagmaling/male-betontagsten/,underguide,Tagmaling og tagrens,male betontagsten,tagmaling
 /tagmaling/mos-paa-taget/,underguide,Tagmaling og tagrens,fjerne mos på taget,tagmaling
 /algerens/,hovedguide,Algerens,algerens pris,algerens
@@ -25,7 +25,7 @@ url,type,emne,soegeord,3byggetilbud
 /facademaling/silikatmaling/,underguide,Facademaling,silikatmaling facade,facademaling
 /facademaling/male-traefacade/,underguide,Facademaling,male træfacade pris,facademaling
 /omfugning/,hovedguide,Omfugning,omfugning pris,omfugning
-/omfugning/omfugning-pris/,underguide,Omfugning,omfugning pris pr m2,omfugning
+/omfugning/omfuge-selv/,underguide,Omfugning,omfuge selv,omfugning
 /omfugning/kalkmoertel-eller-cement/,underguide,Omfugning,kalkmørtel eller cementmørtel,omfugning
 /omfugning/fuger-smuldrer/,underguide,Omfugning,fuger smuldrer,omfugning
 /sandblaesning/,hovedguide,Sandblæsning af hus,sandblæsning af hus pris,sandblaesning
@@ -63,11 +63,11 @@ url,type,emne,soegeord,3byggetilbud
 /totalentreprise/abt-18/,underguide,Totalentreprise,abt 18,totalentreprise
 /totalentreprise/byggeprogram/,underguide,Totalentreprise,byggeprogram skabelon,totalentreprise
 /fundament/,hovedguide,Fundament,fundament pris,fundament
-/fundament/fundament-pris/,underguide,Fundament,støbe fundament pris,fundament
+/fundament/punktfundament/,underguide,Fundament,punktfundament til terrasse,fundament
 /fundament/saetningsskader/,underguide,Fundament,sætningsskader,fundament
 /fundament/understoebning/,underguide,Fundament,understøbning pris,fundament
 /nedrivning/,hovedguide,Nedrivning,nedrivning pris,nedrivning
-/nedrivning/nedrivning-af-hus-pris/,underguide,Nedrivning,nedrivning af hus pris,nedrivning
+/nedrivning/indvendig-nedrivning/,underguide,Nedrivning,indvendig nedrivning pris,nedrivning
 /nedrivning/fjerne-baerende-vaeg/,underguide,Nedrivning,fjerne bærende væg pris,nedrivning
 /nedrivning/nedrivningstilladelse/,underguide,Nedrivning,nedrivningstilladelse,nedrivning
 /gulvarbejde/,hovedguide,Gulvarbejde,gulvarbejde pris,gulvarbejde
@@ -82,7 +82,7 @@ url,type,emne,soegeord,3byggetilbud
 /varmepumpe-luft-til-vand/elforbrug/,underguide,Luft-til-vand varmepumpe,luft til vand varmepumpe elforbrug,varmepumpe-luft-til-vand
 /varmepumpe-luft-til-vand/radiatorer/,underguide,Luft-til-vand varmepumpe,varmepumpe og radiatorer,varmepumpe-luft-til-vand
 /varmepumpe-luft-til-luft/,hovedguide,Luft-til-luft varmepumpe,luft-til-luft varmepumpe pris,varmepumper
-/varmepumpe-luft-til-luft/luft-til-luft-pris/,underguide,Luft-til-luft varmepumpe,luft til luft varmepumpe pris,varmepumper
+/varmepumpe-luft-til-luft/multisplit/,underguide,Luft-til-luft varmepumpe,multisplit varmepumpe pris,varmepumper
 /varmepumpe-luft-til-luft/sommerhus/,underguide,Luft-til-luft varmepumpe,varmepumpe til sommerhus,varmepumper
 /varmepumpe-luft-til-luft/koeling/,underguide,Luft-til-luft varmepumpe,varmepumpe med køling,varmepumper
 /jordvarme/,hovedguide,Jordvarme,jordvarme pris,jordvarme
@@ -101,7 +101,7 @@ url,type,emne,soegeord,3byggetilbud
 /isolering/isolering-af-gulv/,underguide,Isolering,isolering af gulv,isolering
 /isolering/krybekaelder/,underguide,Isolering,krybekælder fugt,isolering
 /loftisolering/,hovedguide,Loftisolering,loftisolering pris,loftisolering
-/loftisolering/loftisolering-pris/,underguide,Loftisolering,loftisolering pris pr m2,loftisolering
+/loftisolering/dampspaerre/,underguide,Loftisolering,dampspærre på loftet,loftisolering
 /loftisolering/papiruld/,underguide,Loftisolering,indblæsning af papiruld,loftisolering
 /loftisolering/skraavaeg/,underguide,Loftisolering,isolering af skråvægge,loftisolering
 /hulmursisolering/,hovedguide,Hulmursisolering,hulmursisolering pris,hulmursisolering
@@ -119,10 +119,10 @@ url,type,emne,soegeord,3byggetilbud
 /badevaerelse-renovering/badevaerelse-i-lejlighed/,underguide,Badeværelsesrenovering,nyt badeværelse i lejlighed,badevaerelse
 /badevaerelse-renovering/fliser-pris/,underguide,Badeværelsesrenovering,flisearbejde badeværelse pris,badevaerelse
 /vvs/,hovedguide,VVS-arbejde,vvs-arbejde pris,vvs
-/vvs/vvs-timepris/,underguide,VVS-arbejde,vvs timepris,vvs
+/vvs/blandingsbatteri/,underguide,VVS-arbejde,skift blandingsbatteri pris,vvs
 /vvs/nyt-toilet/,underguide,VVS-arbejde,nyt toilet pris med montering,vvs
 /vvs/varmtvandsbeholder/,underguide,VVS-arbejde,ny varmtvandsbeholder pris,vvs
-/vvs/vandrør/,underguide,VVS-arbejde,udskiftning af vandrør,vvs
+/vvs/vandroer/,underguide,VVS-arbejde,udskiftning af vandrør,vvs
 /kloakrenovering/,hovedguide,Kloakrenovering,kloakrenovering pris,kloak
 /kloakrenovering/hvem-ejer-kloakken/,underguide,Kloakrenovering,hvem ejer kloakken stikledning,kloak
 /kloakrenovering/rotter-i-kloakken/,underguide,Kloakrenovering,rotter i kloakken,kloak
@@ -132,14 +132,14 @@ url,type,emne,soegeord,3byggetilbud
 /stroempeforing/stroempeforing-eller-opgravning/,underguide,Strømpeforing,strømpeforing eller opgravning,strompeforing
 /stroempeforing/holdbarhed/,underguide,Strømpeforing,strømpeforing holdbarhed,strompeforing
 /tv-inspektion-kloak/,hovedguide,TV-inspektion af kloak,tv inspektion kloak,tv-inspektion
-/tv-inspektion-kloak/tv-inspektion-pris/,underguide,TV-inspektion af kloak,tv inspektion kloak pris,tv-inspektion
+/tv-inspektion-kloak/kloakrapport/,underguide,TV-inspektion af kloak,kloakrapport forklaring,tv-inspektion
 /tv-inspektion-kloak/husekoeb/,underguide,TV-inspektion af kloak,kloakinspektion ved huskøb,tv-inspektion
 /omfangsdraen/,hovedguide,Omfangsdræn,omfangsdræn pris,omfangsdraen
 /omfangsdraen/omfangsdraen-selv/,underguide,Omfangsdræn,lægge omfangsdræn selv,omfangsdraen
 /omfangsdraen/fugt-i-kaelder/,underguide,Omfangsdræn,fugt i kælder,omfangsdraen
 /omfangsdraen/draen-regler/,underguide,Omfangsdræn,dræn regler,omfangsdraen
 /faskine/,hovedguide,Faskine og regnvandsanlæg,faskine,regnvandsanlaeg
-/faskine/faskine-pris/,underguide,Faskine og regnvandsanlæg,faskine pris,regnvandsanlaeg
+/faskine/faskine-lerjord/,underguide,Faskine og regnvandsanlæg,faskine i lerjord,regnvandsanlaeg
 /faskine/faskine-krav/,underguide,Faskine og regnvandsanlæg,faskine krav og afstand,regnvandsanlaeg
 /faskine/regnvandsopsamling/,underguide,Faskine og regnvandsanlæg,regnvandsopsamling,regnvandsanlaeg
 /vandskade/,hovedguide,Vandskade,vandskade hvad gør man,vandskade
@@ -156,7 +156,7 @@ url,type,emne,soegeord,3byggetilbud
 /asbestsanering/asbest-test/,underguide,Asbestsanering,asbest test,asbest
 /asbestsanering/asbest-i-gulv/,underguide,Asbestsanering,asbest i gulvbelægning,asbest
 /belaegning/,hovedguide,Belægning og brolægning,belægning og brolægning pris,belaegning
-/belaegning/belaegning-pris/,underguide,Belægning og brolægning,belægning pris pr m2,belaegning
+/belaegning/ukrudt-i-fliser/,underguide,Belægning og brolægning,ukrudt i fliser,belaegning
 /belaegning/indkoersel-pris/,underguide,Belægning og brolægning,ny indkørsel pris,belaegning
 /belaegning/terrasse-fliser/,underguide,Belægning og brolægning,terrasse med fliser pris,belaegning
 /belaegning/chaussesten/,underguide,Belægning og brolægning,chaussesten pris,belaegning
@@ -165,28 +165,28 @@ url,type,emne,soegeord,3byggetilbud
 /anlaegsarbejde/terraenregulering/,underguide,Anlægsarbejde,terrænregulering,anlaeg
 /anlaegsarbejde/minigraver/,underguide,Anlægsarbejde,minigraver med fører pris,anlaeg
 /gartner/,hovedguide,Gartner,gartner pris,gartner
-/gartner/gartner-pris/,underguide,Gartner,gartner timepris,gartner
+/gartner/fast-havepleje/,underguide,Gartner,fast havepleje pris,gartner
 /gartner/haveanlaeg-pris/,underguide,Gartner,nyt haveanlæg pris,gartner
 /gartner/haekklipning/,underguide,Gartner,hækklipning pris,gartner
 /hegn/,hovedguide,Hegn,hegn pris,hegn
-/hegn/hegn-pris/,underguide,Hegn,hegn pris pr meter,hegn
+/hegn/lamelhegn/,underguide,Hegn,lamelhegn pris,hegn
 /hegn/hegnsloven/,underguide,Hegn,hegnsloven,hegn
 /hegn/stakit/,underguide,Hegn,stakit pris,hegn
 /hegn/raftehegn/,underguide,Hegn,raftehegn pris,hegn
 /toemrer/,hovedguide,Tømrer,tømrer pris,toemrer
-/toemrer/toemrer-timepris/,underguide,Tømrer,tømrer timepris,toemrer
+/toemrer/nyt-loft/,underguide,Tømrer,nyt loft pris,toemrer
 /toemrer/traeterrasse-pris/,underguide,Tømrer,træterrasse pris,toemrer
 /toemrer/skillevaeg/,underguide,Tømrer,ny skillevæg pris,toemrer
 /murer/,hovedguide,Murer,murer pris,murer
-/murer/murer-timepris/,underguide,Murer,murer timepris,murer
+/murer/pudse-vaeg/,underguide,Murer,pudse væg indvendig pris,murer
 /murer/flisearbejde/,underguide,Murer,flisearbejde pris,murer
 /murer/skorsten/,underguide,Murer,nedtagning af skorsten pris,murer
 /maler/,hovedguide,Maler,maler pris,malere
-/maler/maler-pris/,underguide,Maler,maler pris pr m2,malere
+/maler/male-loft/,underguide,Maler,male loft pris,malere
 /maler/male-lejlighed/,underguide,Maler,male lejlighed pris,malere
 /maler/male-vinduer/,underguide,Maler,male vinduer pris,malere
 /elektriker/,hovedguide,Elektriker,elektriker pris,elektriker
-/elektriker/elektriker-timepris/,underguide,Elektriker,elektriker timepris,elektriker
+/elektriker/spots-i-loft/,underguide,Elektriker,spots i loft pris,elektriker
 /elektriker/ny-eltavle/,underguide,Elektriker,ny eltavle pris,elektriker
 /elektriker/ladestander/,underguide,Elektriker,ladestander installation pris,elektriker
 /elektriker/ekstra-stikkontakt/,underguide,Elektriker,ny stikkontakt pris,elektriker
@@ -194,7 +194,7 @@ url,type,emne,soegeord,3byggetilbud
 /eltjek/eltjek-ved-huskoeb/,underguide,Eltjek,eltjek ved huskøb,eltjek
 /eltjek/hfi-relae/,underguide,Eltjek,hfi relæ udskiftning,eltjek
 /handyman/,hovedguide,Handyman,handyman pris,handyman
-/handyman/handyman-timepris/,underguide,Handyman,handyman timepris,handyman
+/handyman/tv-paa-vaeg/,underguide,Handyman,montering af tv på væg pris,handyman
 /handyman/smaaopgaver/,underguide,Handyman,handyman små opgaver,handyman
 /haandvaerkertilbud/,hovedguide,Håndværkertilbud,håndværkertilbud,haandvaerker
 /haandvaerkertilbud/sammenlign-tilbud/,underguide,Håndværkertilbud,sammenligne håndværkertilbud,haandvaerker

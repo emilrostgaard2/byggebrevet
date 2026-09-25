@@ -41,6 +41,16 @@ Der findes tre klassiske måder at organisere et byggeri på:
 
 **Totalentreprise** samler både projekt og udførelse hos én part. Du har kun én at gå til, uanset om fejlen skyldes tegningerne eller håndværket.
 
+## Hvem bærer risikoen?
+
+| Risiko | Fagentreprise | Hovedentreprise | Totalentreprise |
+|---|---|---|---|
+| Fejl i projektet | Bygherren | Bygherren | Totalentreprenøren |
+| Fejl i udførelsen | Den enkelte entreprenør | Hovedentreprenøren | Totalentreprenøren |
+| Koordinering mellem fag | Bygherren | Hovedentreprenøren | Totalentreprenøren |
+| Tidsplan | Bygherren | Hovedentreprenøren | Totalentreprenøren |
+| Myndighedsbehandling | Bygherren | Bygherren | Totalentreprenøren |
+
 ## Fordele ved totalentreprise
 
 - **Én ansvarlig.** Du undgår diskussioner mellem rådgiver og håndværker om, hvem der har ansvaret for en fejl.
@@ -130,7 +140,7 @@ Et tilbud med mange forbehold kan ende dyrere end et tilbud med en højere pris 
 
 ## Spørgsmål du bør stille totalentreprenøren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Disse spørgsmål hjælper dig med at se forskel på tilbud, der ligner hinanden på prisen.
 
 - **Hvilke rådgivere bruger I til projekteringen?** Arkitekt og ingeniør bør være erfarne med den type projekt, du skal have udført.
 - **Hvilke fag udfører I selv, og hvilke har I underentreprenører på?** Det giver et billede af, hvor meget koordinering der er i projektet.

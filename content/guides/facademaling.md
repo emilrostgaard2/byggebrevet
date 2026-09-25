@@ -2,7 +2,7 @@
 topic: facademaling
 title: Facademaling: pris, malingstyper og korrekt forarbejde
 seo_title: Facademaling pris 2026 – hvad koster det at male facaden? | Byggebrevet
-description: Hvad koster det at få malet facaden? Se priser pr. m² for murstens-, puds- og træfacader, forskellen på silikat-, kalk- og akrylmaling og hvorfor forarbejdet er afgørende.
+description: Hvad koster facademaling pr. m²? Priser for murstens-, puds- og træfacader, valg mellem silikat-, kalk- og akrylmaling og korrekt forarbejde.
 updated: 2026-09-25
 price: 40.000–110.000 kr.
 price_note: for et parcelhus inkl. forarbejde og stillads

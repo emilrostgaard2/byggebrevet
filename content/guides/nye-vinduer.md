@@ -131,7 +131,7 @@ Vinduer er et område, hvor små fejl giver problemer i mange år. Disse fejl se
 
 ## Spørgsmål du bør stille leverandøren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Svarene på disse spørgsmål giver dig et godt grundlag for at vælge mellem tilbuddene.
 
 - **Er indvendig finish med i prisen?** Lysninger og fuger indvendigt er ofte udeladt i de billigste tilbud.
 - **Hvem udfører monteringen?** Egne montører eller certificerede partnere giver typisk den bedste garanti.

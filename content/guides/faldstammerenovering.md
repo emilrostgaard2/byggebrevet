@@ -1,8 +1,8 @@
 ---
 topic: faldstammerenovering
 title: Faldstammerenovering: pris pr. lejlighed og guide til bestyrelsen
-seo_title: Faldstammerenovering pris pr. lejlighed 2026 – guide til foreninger | Byggebrevet
-description: Hvad koster en faldstammerenovering pr. lejlighed? Guide til bestyrelser om forundersøgelse, strømpeforing eller udskiftning, finansiering, generalforsamling og beboerhensyn.
+seo_title: Faldstammerenovering pris pr. lejlighed 2026 | Byggebrevet
+description: Hvad koster faldstammerenovering pr. lejlighed? Guide til bestyrelsen om strømpeforing eller udskiftning, finansiering og beboerhensyn.
 updated: 2026-09-24
 price: 150.000–350.000 kr.
 price_note: pr. lejlighed ved udskiftning inkl. nyt badeværelse
@@ -127,7 +127,7 @@ Når ejendommen alligevel er i gang med et stort projekt, kan det være økonomi
 
 ## Spørgsmål du bør stille rådgiveren og entreprenøren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Stil spørgsmålene, inden du skriver under. Det er langt lettere at få svar før end efter.
 
 - **Hvor mange faldstammeprojekter har I gennemført i lignende ejendomme?** Erfaring med samme byggeperiode og konstruktion er guld værd.
 - **Hvordan vurderer I, om strømpeforing er realistisk?** Svaret bør bygge på TV-inspektion og en gennemgang af afgreninger.

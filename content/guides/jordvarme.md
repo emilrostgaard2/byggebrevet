@@ -2,7 +2,7 @@
 topic: jordvarme
 title: Jordvarme: pris, jordslange eller boring og besparelse
 seo_title: Jordvarme pris 2026 – hvad koster et jordvarmeanlæg? | Byggebrevet
-description: Hvad koster jordvarme inkl. installation? Se priser på jordslange og lodret boring, krav til grunden, tilladelse, drift og hvordan jordvarme står mod luft-til-vand.
+description: Hvad koster jordvarme? Priser på jordslange og boring, krav til grunden, tilladelse, drift og sammenligning med luft-til-vand.
 updated: 2026-09-25
 price: 120.000–250.000 kr.
 price_note: inkl. jordslange eller boring og installation
@@ -56,6 +56,17 @@ Oveni kan komme retablering af haven, nye radiatorer eller gulvvarme og fjernels
 **Jordslangen** er det mest udbredte valg i parcelhuse på landet og i områder med store grunde. Slangen graves ned i et mønster over et større areal, og når den er lagt, kan haven retableres. Der må ikke bygges eller plantes store træer oven på slangen bagefter.
 
 **Boringen** er løsningen, når grunden er lille, eller når du ikke vil grave haven op. Boringen udføres af en specialiseret brøndborer og kræver, at kommunen godkender placeringen, blandt andet af hensyn til grundvandet.
+
+## Sådan forløber installationen
+
+1. **Besigtigelse.** Installatøren vurderer huset, varmesystemet og grunden.
+2. **Beregning.** Varmebehov, pumpestørrelse og kollektor dimensioneres.
+3. **Ansøgning.** Der søges om tilladelse hos kommunen.
+4. **Kollektor.** Jordslangen graves ned, eller boringen udføres.
+5. **Varmepumpe.** Pumpen installeres indendørs og tilsluttes varmesystem og el.
+6. **Fyldning og trykprøvning.** Kollektoren fyldes med væske og testes for tæthed.
+7. **Indregulering.** Varmekurven indstilles, og anlægget sættes i drift.
+8. **Retablering.** Haven retableres efter aftale.
 
 ## Tilladelse fra kommunen
 

@@ -2,7 +2,7 @@
 topic: omfugning
 title: Omfugning: pris pr. m², mørteltyper og hvornår det er nødvendigt
 seo_title: Omfugning pris 2026 – hvad koster det at omfuge et hus? | Byggebrevet
-description: Hvad koster omfugning pr. m²? Se priser for parcelhus og etageejendom, forskellen på kalk- og cementmørtel, fugetyper og hvordan du vurderer, om dine fuger skal skiftes.
+description: Hvad koster omfugning pr. m²? Priser for parcelhus og etageejendom, valg mellem kalk- og cementmørtel og tegn på, at fugerne skal skiftes.
 updated: 2026-09-25
 price: 50.000–130.000 kr.
 price_note: for et parcelhus inkl. stillads

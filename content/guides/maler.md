@@ -2,7 +2,7 @@
 topic: maler
 title: Maler: priser på indvendig og udvendig maling
 seo_title: Maler pris 2026 – hvad koster det at få malet? | Byggebrevet
-description: Hvad koster en maler? Se timepriser, priser pr. m² og eksempler på at få malet en lejlighed, et hus, lofter, vinduer og træværk, samt hvordan du vurderer tilbud.
+description: Hvad koster en maler? Timepris, pris pr. m² og eksempler på at få malet lejlighed, hus, lofter og træværk, samt råd om tilbud.
 updated: 2026-09-25
 price: 30.000–70.000 kr.
 price_note: for at få malet en lejlighed på 70–90 m² indvendigt
@@ -47,6 +47,16 @@ Arealet regnes normalt som vægflade, ikke gulvareal. Et rum på 15 m² gulv har
 | Udvendigt træværk på et parcelhus | 25.000–60.000 kr. |
 
 [[cta]]
+
+## Sådan forløber en maleropgave
+
+1. **Besigtigelse.** Maleren ser overfladerne og vurderer forarbejdet.
+2. **Tilbud.** Du får et skriftligt tilbud med areal, forarbejde, maling og antal behandlinger.
+3. **Afdækning.** Gulve, vinduer og møbler dækkes til.
+4. **Forarbejde.** Huller og revner udfyldes, der spartles, slibes og fuges.
+5. **Grunding.** Nye eller sugende overflader grundes.
+6. **Maling.** Lofter males først, derefter vægge og til sidst træværk.
+7. **Oprydning og gennemgang.** Afdækningen fjernes, og I gennemgår resultatet sammen.
 
 ## Hvad påvirker prisen?
 

@@ -2,7 +2,7 @@
 topic: facaderenovering
 title: Facaderenovering: metoder, priser og efterisolering
 seo_title: Facaderenovering pris 2026 – pudsning, fugning og isolering | Byggebrevet
-description: Hvad koster en facaderenovering pr. m²? Se priser på pudsning, omfugning, facadeisolering og reparation, samt hvordan du vælger metode til parcelhus eller etageejendom.
+description: Hvad koster facaderenovering pr. m²? Priser på pudsning, omfugning, facadeisolering og reparation, og hvordan du vælger den rigtige metode.
 updated: 2026-09-24
 price: 400–3.000 kr. pr. m²
 price_note: afhængigt af metode, fra reparation til udvendig efterisolering
@@ -61,6 +61,17 @@ Har huset en hulmur, er [hulmursisolering](/hulmursisolering/) ofte et langt bil
 
 Før fugning eller maling kan det være nødvendigt at fjerne gammel maling, snavs og alger. [Sandblæsning](/sandblaesning/) og skånsom rensning bruges til det, men metoden skal vælges, så murstenenes overflade ikke skades.
 
+## Levetid for facadebehandlinger
+
+| Behandling | Typisk levetid |
+|---|---|
+| Algebehandling og rens | 3–5 år |
+| Facademaling på murværk | 10–15 år |
+| Vandskuring | 20–30 år |
+| Omfugning | 30–50 år |
+| Pudsning | 30–50 år |
+| Udvendig efterisolering med puds | 40–60 år |
+
 ## Find årsagen før du vælger løsning
 
 En facaderenovering holder kun, hvis årsagen til skaderne er fundet. Typiske årsager er:
@@ -113,7 +124,7 @@ Overvejer foreningen nye [altaner](/altaner/), er facaderenoveringen det rigtige
 
 ## Spørgsmål du bør stille håndværkeren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Spørgsmålene her gør det lettere at skille de grundige firmaer fra dem, der skyder fra hoften.
 
 - **Hvad tror I er årsagen til skaderne?** En god håndværker ser på årsagen, ikke kun på symptomerne.
 - **Hvilken mørtel eller puds vil I bruge, og hvorfor?** Materialet skal passe til husets alder og murværk.
@@ -156,6 +167,9 @@ Vandskuring er en tynd behandling, hvor mørtel skures ind i murværket, så ste
 
 ### Hvordan ved jeg, om min facade har brug for omfugning?
 Kan du skrabe fugerne ud med en skruetrækker, eller er der huller og revner i dem, er det tid til omfugning. Mørke, fugtige områder på facaden efter regn er også et tegn.
+
+### Kan man bo i huset under en facaderenovering?
+Ja. Arbejdet foregår udvendigt, men der vil være stillads, støj og støv, og vinduer kan være afdækket i perioder.
 
 ## Kilder og videre læsning
 

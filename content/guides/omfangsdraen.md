@@ -2,7 +2,7 @@
 topic: omfangsdraen
 title: Omfangsdræn: pris, udførelse og regler for afledning
 seo_title: Omfangsdræn pris 2026 – hvad koster nyt dræn om huset? | Byggebrevet
-description: Hvad koster omfangsdræn pr. meter og for et helt hus? Se hvornår dræn er nødvendigt, hvordan det udføres, hvor vandet må ledes hen, og hvad du skal kræve af tilbuddet.
+description: Hvad koster omfangsdræn pr. meter? Hvornår dræn er nødvendigt, hvordan det udføres, og hvor drænvandet lovligt må ledes hen.
 updated: 2026-09-25
 price: 70.000–200.000 kr.
 price_note: for et parcelhus med kælder, inkl. udvendig fugtsikring

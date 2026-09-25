@@ -2,7 +2,7 @@
 topic: ejendomsservice
 title: Ejendomsservice: priser, opgaver og aftaler for foreninger
 seo_title: Ejendomsservice pris 2026 – vicevært og drift til foreningen | Byggebrevet
-description: Hvad koster ejendomsservice og vicevært til en andels- eller ejerforening? Se priser pr. lejlighed, typiske opgaver, fast ansat vs. servicefirma og hvad kontrakten skal indeholde.
+description: Hvad koster ejendomsservice og vicevært? Priser pr. lejlighed, typiske opgaver, vintertjeneste og hvad serviceaftalen skal indeholde.
 updated: 2026-09-25
 price: 100–350 kr.
 price_note: pr. lejlighed pr. måned for en typisk serviceaftale
@@ -34,7 +34,7 @@ Ejendomsservice er en samlet betegnelse for den daglige drift af en ejendom. En 
 | Tilsyn | Regelmæssige runderinger og registrering af skader |
 | Administration | Kontakt til beboere, nøgler og koordinering med håndværkere |
 
-Mange foreninger vælger en basisaftale og køber ekstraopgaver efter behov.
+Mange foreninger vælger en basisaftale og køber ekstraopgaver efter behov. Grøn pleje kan også lægges hos en [gartner](/gartner/), og mindre reparationer kan løses af en [handyman](/handyman/).
 
 ## Hvad koster ejendomsservice?
 
@@ -86,7 +86,7 @@ Vintertjenesten er den del af aftalen, der oftest giver problemer. Som grundejer
 Når opgaven overlades til et servicefirma, skal aftalen beskrive:
 
 - Hvilke arealer der skal ryddes, gerne med et kort
-- Hvornår der skal være ryddet, fx senest kl. 7 på hverdage
+- Hvornår der skal være ryddet, fx senest kl. 7 på hverdage, og hvordan belægninger beskyttes. Læs mere om [belægning](/belaegning/)
 - Hvor ofte der skal saltes eller gruses
 - Hvordan firmaet dokumenterer udførte udkald
 - At ansvaret for rydningen overgår til firmaet, og at firmaet har ansvarsforsikring

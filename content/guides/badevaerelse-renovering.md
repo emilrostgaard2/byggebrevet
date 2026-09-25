@@ -1,7 +1,7 @@
 ---
 topic: badevaerelse-renovering
 title: Nyt badeværelse: pris pr. m², regler og tidsplan
-seo_title: Nyt badeværelse pris 2026 – hvad koster en badeværelsesrenovering? | Byggebrevet
+seo_title: Nyt badeværelse pris 2026 – pris pr. m², regler og tidsplan
 description: Hvad koster et nyt badeværelse? Se pris pr. m², eksempler på budgetter, vådrumsregler, rækkefølge af håndværkere og hvordan du undgår fugtskader.
 updated: 2026-09-24
 price: 100.000–250.000 kr.
@@ -119,7 +119,7 @@ Byggeskadesager viser igen og igen de samme fejl i badeværelser:
 
 ## Spørgsmål du bør stille håndværkeren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Brug spørgsmålene nedenfor, når du taler med håndværkerne. De afslører hurtigt, hvem der har styr på opgaven.
 
 - **Hvilken membran og hvilke vådrumsplader bruger I?** Få produktnavne, så du kan se, at det er godkendte produkter.
 - **Hvem koordinerer VVS, el og fliser?** Uklar koordinering er den største årsag til forsinkelser.

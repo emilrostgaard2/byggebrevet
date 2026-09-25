@@ -122,7 +122,7 @@ Erfaringen fra mange tilbygninger viser, at det sjældent er selve byggeriet, de
 
 ## Spørgsmål du bør stille entreprenøren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Kan håndværkeren svare klart på spørgsmålene nedenfor, er det et godt tegn.
 
 - **Hvem står for tegninger og byggetilladelse?** Afklar ansvaret tidligt, så intet falder mellem to stole.
 - **Hvordan løser I sammenbygningen med det eksisterende hus?** Det er her, utætheder og kuldebroer oftest opstår.

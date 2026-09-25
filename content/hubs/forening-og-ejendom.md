@@ -1,6 +1,6 @@
 ---
 title: Foreninger og ejendomme
-seo_title: Guides til andels- og ejerforeninger – faldstammer, altaner og vedligeholdelse | Byggebrevet
+seo_title: Guides til andels- og ejerforeninger | Byggebrevet
 description: Guides til bestyrelser i andels- og ejerforeninger: faldstammerenovering, vedligeholdelsesplan, altaner, opgange, dørtelefonanlæg og ejendomsservice.
 lead: Store fællesprojekter med mange beboere og ofte frivillige bestyrelser. Her finder du guides skrevet til bestyrelsen.
 ---

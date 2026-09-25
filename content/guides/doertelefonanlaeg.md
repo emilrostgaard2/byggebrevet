@@ -2,7 +2,7 @@
 topic: doertelefonanlaeg
 title: Dørtelefonanlæg: pris pr. lejlighed og valg af system
 seo_title: Dørtelefonanlæg pris 2026 – lyd, video eller app? | Byggebrevet
-description: Hvad koster et nyt dørtelefonanlæg til en opgang? Se priser pr. lejlighed for lyd-, video- og app-baserede anlæg, fordele og ulemper, adgangskontrol og hvad tilbuddet skal indeholde.
+description: Hvad koster et nyt dørtelefonanlæg? Priser pr. lejlighed for lyd-, video- og app-anlæg, adgangskontrol og hvad tilbuddet skal indeholde.
 updated: 2026-09-24
 price: 2.000–8.000 kr.
 price_note: pr. lejlighed inkl. installation
@@ -41,6 +41,16 @@ Priserne gælder hele anlægget fordelt pr. lejlighed, inklusive dørstation, sv
 **App-baserede anlæg** sender opkaldet til beboerens mobiltelefon. Det betyder, at man kan lukke et bud ind, selvom man ikke er hjemme. Til gengæld afhænger løsningen af internetforbindelse og ofte af et abonnement hos leverandøren. Undersøg, hvad det koster over anlæggets levetid, og hvad der sker, hvis leverandøren stopper sin tjeneste.
 
 **Hybridanlæg** kombinerer et fast indendørs apparat med en app. Det er ofte den bedste løsning i ejendomme med en blandet beboersammensætning, hvor nogle foretrækker en knap på væggen, og andre vil have opkaldet på telefonen.
+
+## Sammenligning af de fire typer
+
+| Egenskab | Lyd | Video | App | Hybrid |
+|---|---|---|---|---|
+| Se hvem der ringer | Nej | Ja | Ja, på mobilen | Ja |
+| Åbne døren hjemmefra | Nej | Nej | Ja | Ja |
+| Afhængig af internet | Nej | Nej | Ja | Delvist |
+| Løbende abonnement | Sjældent | Sjældent | Ofte | Ofte |
+| Egnet til ældre beboere | Ja | Ja | Mindre | Ja |
 
 ## Kabler: genbrug eller nye?
 
@@ -109,7 +119,7 @@ Et dørtelefonanlæg er en relativt lille investering i forhold til andre fælle
 
 ## Spørgsmål du bør stille leverandøren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Gode svar på disse spørgsmål er et stærkere kvalitetstegn end en lav pris.
 
 - **Kan de eksisterende kabler bruges?** Genbrug af kabler sparer penge og gener.
 - **Hvad koster abonnement og app pr. år?** Regn de løbende udgifter med over anlæggets levetid.

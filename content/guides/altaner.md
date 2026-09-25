@@ -2,7 +2,7 @@
 topic: altaner
 title: Altaner i etageejendomme: pris, tilladelser og proces
 seo_title: Nye altaner pris 2026 – guide til andels- og ejerforeninger | Byggebrevet
-description: Hvad koster nye altaner i en etageejendom? Se priser på påhængsaltaner, altantårne og franske altaner, regler for byggetilladelse og hvordan foreningen gennemfører et altanprojekt.
+description: Hvad koster nye altaner i en etageejendom? Priser på påhængsaltaner, altantårne og franske altaner, byggetilladelse og proces for foreningen.
 updated: 2026-09-24
 price: 60.000–160.000 kr.
 price_note: pr. altan ved fælles projekt i en etageejendom
@@ -88,6 +88,17 @@ I andelsboligforeninger skal man tage stilling til, hvordan altanen påvirker an
 
 Planlægger foreningen allerede en [facaderenovering](/facaderenovering/), er det oplagt at kombinere projekterne, så stillads og facadearbejde kun skal udføres én gang. Altaner bør også indgå i foreningens [vedligeholdelsesplan](/vedligeholdelsesplan/), både som projekt og som fremtidig vedligeholdelsespost.
 
+## Tidsplan for et altanprojekt
+
+| Fase | Typisk varighed |
+|---|---|
+| Interesseundersøgelse og forundersøgelse | 2–4 måneder |
+| Beslutning på generalforsamling | Afhænger af foreningens kalender |
+| Projektering og ansøgning om byggetilladelse | 2–4 måneder |
+| Kommunens sagsbehandling | 1–4 måneder |
+| Udbud og kontrakt | 1–2 måneder |
+| Produktion og montering | 2–4 måneder |
+
 ## Vedligeholdelse af altaner
 
 Altaner udsættes for vejr og vind og skal vedligeholdes:
@@ -129,7 +140,7 @@ Uanset model bør foreningens administrator regne på, hvordan projektet påvirk
 
 ## Spørgsmål du bør stille leverandøren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Stil de samme spørgsmål til alle, du har fået tilbud fra. Svarene siger ofte mere om kvaliteten end prisen gør.
 
 - **Hvor mange altanprojekter har I gennemført i lignende ejendomme?** Bed om adresser, så I kan se altanerne i virkeligheden.
 - **Står I for statik og byggetilladelse?** Afklar hvem der har ansvaret for myndighedsbehandlingen.

@@ -1,8 +1,8 @@
 ---
 topic: vedligeholdelsesplan
 title: Vedligeholdelsesplan: guide til andels- og ejerforeninger
-seo_title: Vedligeholdelsesplan for andelsbolig- og ejerforening – pris og indhold | Byggebrevet
-description: Hvad er en vedligeholdelsesplan, hvad skal den indeholde, og hvad koster den? Guide til bestyrelser om 10-årsplan, budget, opsparing, regler og valg af rådgiver.
+seo_title: Vedligeholdelsesplan for andels- og ejerforeninger | Byggebrevet
+description: Hvad skal en vedligeholdelsesplan indeholde, og hvad koster den? Guide til bestyrelser om 10-årsplan, budget, opsparing og regler.
 updated: 2026-09-24
 price: 20.000–80.000 kr.
 price_note: for en plan udarbejdet af rådgiver, afhængigt af ejendommens størrelse
@@ -135,7 +135,7 @@ Rådgiveren bør være uafhængig af de entreprenører, der senere skal udføre 
 
 ## Spørgsmål du bør stille rådgiveren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Med disse spørgsmål kan du hurtigt vurdere, om firmaet forstår netop din opgave.
 
 - **Hvor mange lejligheder og hvilke rum besigtiger I?** Jo flere lejligheder, jo bedre billede af installationerne.
 - **Hvordan fastsætter I prisoverslagene?** Overslagene bør bygge på aktuelle priser og erfaringer fra lignende projekter.
@@ -169,6 +169,9 @@ Det afhænger af ejendommens alder og tilstand. Vedligeholdelsesplanen bør vise
 
 ### Hvem i foreningen har ansvaret for vedligeholdelsesplanen?
 Bestyrelsen har ansvaret for, at planen udarbejdes, opdateres og bruges i budgettet. I praksis hjælper administratoren og en byggeteknisk rådgiver med det faglige arbejde, mens generalforsamlingen godkender budgettet.
+
+### Kan vedligeholdelsesplanen bruges ved salg af lejligheder?
+Ja. Købere og deres rådgivere ser ofte på planen for at vurdere, om der er store udgifter på vej. En opdateret plan giver tryghed og kan gøre salget lettere.
 
 ## Kilder og videre læsning
 

@@ -2,7 +2,7 @@
 topic: varmepumpe-luft-til-vand
 title: Luft-til-vand varmepumpe: pris, besparelse og installation
 seo_title: Luft til vand varmepumpe pris 2026 – hvad koster den? | Byggebrevet
-description: Hvad koster en luft-til-vand varmepumpe inkl. installation, og hvor meget sparer du i forhold til olie- og gasfyr? Guide til størrelse, støj, placering og tilbud.
+description: Hvad koster en luft-til-vand varmepumpe, og hvad sparer du i forhold til olie og gas? Guide til størrelse, støj og tilbud.
 updated: 2026-09-24
 price: 80.000–150.000 kr.
 price_note: inkl. installation i et typisk parcelhus
@@ -117,7 +117,7 @@ De fleste problemer med varmepumper skyldes ikke pumpen selv, men måden den er 
 
 ## Spørgsmål du bør stille installatøren
 
-Når du har tilbuddene i hånden, er det en god idé at stille de samme spørgsmål til alle. Svarene siger ofte mere om kvaliteten end prisen gør.
+Spørg ind til følgende, før du beslutter dig. Uklare svar er et advarselssignal.
 
 - **Hvordan har I beregnet pumpens størrelse?** Svaret bør bygge på husets varmetab eller dit faktiske forbrug, ikke kun på boligarealet.
 - **Hvilken fremløbstemperatur regner I med?** Jo lavere temperatur, jo bedre effektivitet. Spørg om radiatorerne kan klare det.
