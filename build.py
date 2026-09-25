@@ -338,11 +338,13 @@ def breadcrumb(items):
 
 
 # ---------------------------------------------------------------- SIDER
-def build_guide(meta, body_md, guides):
+def build_guide(meta, body_md, guides, subs, key):
     t = TOPIC[meta["topic"]]
     slug = t["slug"]
+    uid = key.replace("/", "-")
+    is_sub = "/" in key
     hub = HUB[t["hub"]]
-    body_md = apply_shortcodes(body_md, slug, slug)
+    body_md = apply_shortcodes(body_md, slug, uid)
     content, toc_tokens = render_md(body_md)
     words = word_count(content)
     minutes = max(1, round(words / 200))
@@ -356,17 +358,34 @@ def build_guide(meta, body_md, guides):
         k, v = [x.strip() for x in f.split("|", 1)]
         facts += f"<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>"
 
+    children_html = ""
+    kids = [(k, m) for k, m in subs.get(slug, []) if k != key]
+    if kids:
+        head = f"Dybere guides om {t['name'].lower()}" if not is_sub else f"Flere guides om {t['name'].lower()}"
+        lis = ""
+        if is_sub:
+            lis += f'<li><a href="/{slug}/">{esc(TOPIC[slug]["name"])}: den samlede guide</a><span>{esc(t["blurb"])}</span></li>'
+        lis += "".join(f'<li><a href="/{k}/">{esc(m.get("short", m["title"]))}</a><span>{esc(m["description"][:140])}</span></li>' for k, m in kids)
+        children_html = f'<section class="related"><h2>{esc(head)}</h2><ul>{lis}</ul></section>'
+    elif is_sub:
+        children_html = (f'<section class="related"><h2>Den samlede guide</h2><ul><li><a href="/{slug}/">{esc(t["name"])}</a>'
+                         f'<span>{esc(t["blurb"])}</span></li></ul></section>')
+
     related = [g for g in guides if TOPIC[g]["hub"] == t["hub"] and g != slug][:4]
     others = [s for s in TOPIC if TOPIC[s]["hub"] == t["hub"] and s != slug and s not in guides][:4]
     related_html = ""
     if related or others:
         lis = "".join(f'<li><a href="/{g}/">{esc(TOPIC[g]["name"])}</a><span>{esc(TOPIC[g]["blurb"])}</span></li>' for g in related)
         lis += "".join(
-            f'<li><a href="{esc(aff(TOPIC[s]["target"], slug+"-rel"))}" rel="sponsored nofollow noopener" target="_blank">Tilbud på {esc(TOPIC[s]["name"].lower())}</a><span>{esc(TOPIC[s]["blurb"])}</span></li>'
+            f'<li><a href="{esc(aff(TOPIC[s]["target"], uid+"-rel"))}" rel="sponsored nofollow noopener" target="_blank">Tilbud på {esc(TOPIC[s]["name"].lower())}</a><span>{esc(TOPIC[s]["blurb"])}</span></li>'
             for s in others)
         related_html = f'<section class="related"><h2>Mere om {esc(hub["name"].lower())}</h2><ul>{lis}</ul></section>'
+    related_html = children_html + related_html
 
-    crumbs, crumb_schema = breadcrumb([("Forside", "/"), (hub["name"], f"/{hub['slug']}/"), (meta["title"], None)])
+    trail = [("Forside", "/"), (hub["name"], f"/{hub['slug']}/")]
+    if is_sub:
+        trail.append((t["name"], f"/{slug}/"))
+    crumbs, crumb_schema = breadcrumb(trail + [(meta.get("short", meta["title"]), None)])
     updated = meta.get("updated", date.today().isoformat())
     published = meta.get("published", updated)
 
@@ -390,7 +409,7 @@ def build_guide(meta, body_md, guides):
   <aside class="guide-side">
     <div class="side-sticky">
       <div class="facts"><p class="facts-h">Hurtigt overblik</p><dl>{facts}</dl></div>
-      {cta_html(slug, slug + "-side", f"Få tilbud på {t['name'].lower()}", variant="cta-side")}
+      {cta_html(slug, uid + "-side", f"Få tilbud på {t['name'].lower()}", variant="cta-side")}
     </div>
   </aside>
 </div>'''
@@ -398,7 +417,7 @@ def build_guide(meta, body_md, guides):
     article_schema = {
         "@context": "https://schema.org", "@type": "Article", "headline": meta["title"],
         "description": meta["description"], "datePublished": published, "dateModified": updated,
-        "inLanguage": "da-DK", "mainEntityOfPage": f"{SITE_URL}/{slug}/",
+        "inLanguage": "da-DK", "mainEntityOfPage": f"{SITE_URL}/{key}/",
         "author": {"@type": "Organization", "name": EDITOR_NAME, "url": f"{SITE_URL}/om-byggebrevet/"},
         "publisher": org_schema(), "wordCount": words,
     }
@@ -407,12 +426,13 @@ def build_guide(meta, body_md, guides):
         schema.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]})
 
-    out = page(meta.get("seo_title", meta["title"]), meta["description"], f"/{slug}/", body, schema,
-               active_hub=t["hub"], sticky=(f"Tilbud på {t['name'].lower()}", aff(t["target"], slug + "-sticky")))
+    out = page(meta.get("seo_title", meta["title"]), meta["description"], f"/{key}/", body, schema,
+               active_hub=t["hub"], sticky=(f"Tilbud på {t['name'].lower()}", aff(t["target"], uid + "-sticky")))
     return out, words
 
 
-def build_hub(hub_slug, meta, body_md, guides):
+def build_hub(hub_slug, meta, body_md, guides, subs=None):
+    subs = subs or {}
     hub = HUB[hub_slug]
     intro, _ = render_md(apply_shortcodes(body_md, next(s for s in TOPIC if TOPIC[s]["hub"] == hub_slug), hub_slug)) if body_md else ("", None)
     cards = ""
@@ -421,7 +441,7 @@ def build_hub(hub_slug, meta, body_md, guides):
             continue
         if s in guides:
             cards += (f'<li class="topic has-guide"><a class="topic-link" href="/{s}/">{esc(t["name"])}</a>'
-                      f'<p>{esc(t["blurb"])}</p><span class="topic-meta">Læs guiden</span></li>')
+                      f'<p>{esc(t["blurb"])}</p><span class="topic-meta">Læs guiden{f" og {len(subs[s])} uddybende artikler" if len(subs.get(s, [])) > 1 else (" og 1 uddybende artikel" if subs.get(s) else "")}</span></li>')
         else:
             cards += (f'<li class="topic"><span class="topic-name">{esc(t["name"])}</span><p>{esc(t["blurb"])}</p>'
                       f'<a class="topic-aff" href="{esc(aff(t["target"], hub_slug))}" rel="sponsored nofollow noopener" target="_blank">Få 3 tilbud</a></li>')
@@ -571,21 +591,26 @@ def main():
     for fn in sorted(os.listdir(gdir)):
         if fn.endswith(".md"):
             meta, body = read_md(os.path.join(gdir, fn))
-            guide_files[meta["topic"]] = (meta, body)
-    guides = set(guide_files)
-    guide_meta = {k: v[0] for k, v in guide_files.items()}
+            key = meta["topic"] + ("/" + meta["sub"] if meta.get("sub") else "")
+            guide_files[key] = (meta, body)
+    guides = {k for k in guide_files if "/" not in k}
+    guide_meta = {k: v[0] for k, v in guide_files.items() if "/" not in k}
+    subs = {}
+    for k, (m, _) in sorted(guide_files.items()):
+        if "/" in k:
+            subs.setdefault(m["topic"], []).append((k, m))
 
     pages = {}
     report = []
     for slug, (meta, body) in guide_files.items():
-        html_doc, words = build_guide(meta, body, guides)
+        html_doc, words = build_guide(meta, body, guides, subs, slug)
         pages[f"/{slug}/"] = (html_doc, meta.get("updated"))
         report.append((slug, words))
 
     for h in HUBS:
         p = os.path.join(ROOT, "content", "hubs", f"{h[0]}.md")
         meta, body = read_md(p) if os.path.exists(p) else ({}, "")
-        pages[f"/{h[0]}/"] = (build_hub(h[0], meta, body, guides), meta.get("updated"))
+        pages[f"/{h[0]}/"] = (build_hub(h[0], meta, body, guides, subs), meta.get("updated"))
 
     pdir = os.path.join(ROOT, "content", "pages")
     for fn in sorted(os.listdir(pdir)):
@@ -615,6 +640,12 @@ def main():
     write("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}/sitemap.xml\n")
 
     print(f"Byggede {len(pages)} sider i ./public")
+    plan = os.path.join(ROOT, "content", "keywordplan.csv")
+    if os.path.exists(plan):
+        import csv
+        rows = list(csv.DictReader(open(plan, encoding="utf-8")))
+        done = sum(1 for r in rows if r["url"] in pages)
+        print(f"Keyword-plan: {done} af {len(rows)} planlagte guides er skrevet")
     for slug, w in sorted(report, key=lambda x: -x[1]):
         print(f"  {slug:32s} {w:5d} ord")
     if all_missing:

@@ -1,0 +1,236 @@
+url,type,emne,soegeord,3byggetilbud
+/nyt-tag/,hovedguide,Nyt tag,nyt tag pris,tagrenovering
+/nyt-tag/tegltag-pris/,underguide,Nyt tag,tegltag pris,tagrenovering
+/nyt-tag/eternittag-med-asbest/,underguide,Nyt tag,udskiftning af eternittag med asbest,tagrenovering
+/nyt-tag/tagpap-pris/,underguide,Nyt tag,tagpap pris pr m2,tagrenovering
+/nyt-tag/staaltag-pris/,underguide,Nyt tag,ståltag pris,tagrenovering
+/nyt-tag/skifertag-pris/,underguide,Nyt tag,skifertag pris,tagrenovering
+/nyt-tag/straatag-pris/,underguide,Nyt tag,stråtag pris,tagrenovering
+/nyt-tag/undertag/,underguide,Nyt tag,nyt undertag pris,tagrenovering
+/nyt-tag/tagrender-pris/,underguide,Nyt tag,nye tagrender pris,tagrenovering
+/tagmaling/,hovedguide,Tagmaling og tagrens,tagmaling og tagrens pris,tagmaling
+/tagmaling/tagmaling-pris/,underguide,Tagmaling og tagrens,tagmaling pris pr m2,tagmaling
+/tagmaling/male-betontagsten/,underguide,Tagmaling og tagrens,male betontagsten,tagmaling
+/tagmaling/mos-paa-taget/,underguide,Tagmaling og tagrens,fjerne mos på taget,tagmaling
+/algerens/,hovedguide,Algerens,algerens pris,algerens
+/algerens/algerens-facade/,underguide,Algerens,algerens facade,algerens
+/algerens/algerens-fliser/,underguide,Algerens,algerens fliser og terrasse,algerens
+/facaderenovering/,hovedguide,Facaderenovering,facaderenovering pris,facaderenovering
+/facaderenovering/pudset-facade-pris/,underguide,Facaderenovering,pudse facade pris,facaderenovering
+/facaderenovering/udvendig-efterisolering/,underguide,Facaderenovering,udvendig efterisolering pris,facaderenovering
+/facaderenovering/revner-i-facaden/,underguide,Facaderenovering,revner i facaden,facaderenovering
+/facaderenovering/ny-skalmur/,underguide,Facaderenovering,ny skalmur pris,facaderenovering
+/facademaling/,hovedguide,Facademaling,facademaling pris,facademaling
+/facademaling/male-murstenshus/,underguide,Facademaling,male murstenshus,facademaling
+/facademaling/silikatmaling/,underguide,Facademaling,silikatmaling facade,facademaling
+/facademaling/male-traefacade/,underguide,Facademaling,male træfacade pris,facademaling
+/omfugning/,hovedguide,Omfugning,omfugning pris,omfugning
+/omfugning/omfugning-pris/,underguide,Omfugning,omfugning pris pr m2,omfugning
+/omfugning/kalkmoertel-eller-cement/,underguide,Omfugning,kalkmørtel eller cementmørtel,omfugning
+/omfugning/fuger-smuldrer/,underguide,Omfugning,fuger smuldrer,omfugning
+/sandblaesning/,hovedguide,Sandblæsning af hus,sandblæsning af hus pris,sandblaesning
+/sandblaesning/sandblaesning-eller-hoejtryksrens/,underguide,Sandblæsning af hus,sandblæsning eller højtryksrens,sandblaesning
+/sandblaesning/fjerne-maling-fra-mursten/,underguide,Sandblæsning af hus,fjerne maling fra mursten,sandblaesning
+/nye-vinduer/,hovedguide,Nye vinduer,nye vinduer pris,vinduer
+/nye-vinduer/trae-alu-vinduer-pris/,underguide,Nye vinduer,træ alu vinduer pris,vinduer
+/nye-vinduer/plastvinduer-pris/,underguide,Nye vinduer,plastvinduer pris,vinduer
+/nye-vinduer/3-lags-glas/,underguide,Nye vinduer,3-lags glas eller 2-lags,vinduer
+/nye-vinduer/terrassedoer-pris/,underguide,Nye vinduer,ny terrassedør pris,vinduer
+/nye-vinduer/ovenlysvinduer-pris/,underguide,Nye vinduer,ovenlysvindue pris montering,vinduer
+/nye-vinduer/vinduer-besparelse/,underguide,Nye vinduer,nye vinduer besparelse,vinduer
+/nye-vinduer/vinduer-i-lejlighed/,underguide,Nye vinduer,udskiftning af vinduer i lejlighed,vinduer
+/glarmester/,hovedguide,Glarmester,glarmester pris,glarmester
+/glarmester/termorude-pris/,underguide,Glarmester,ny termorude pris,glarmester
+/glarmester/punkteret-termorude/,underguide,Glarmester,punkteret termorude,glarmester
+/glarmester/glasvaeg-pris/,underguide,Glarmester,glasvæg pris,glarmester
+/tilbygning/,hovedguide,Tilbygning,tilbygning pris,tilbygning
+/tilbygning/tilbygning-20-m2/,underguide,Tilbygning,tilbygning 20 m2 pris,tilbygning
+/tilbygning/overetage/,underguide,Tilbygning,byg ovenpå hus pris,tilbygning
+/tilbygning/bebyggelsesprocent/,underguide,Tilbygning,bebyggelsesprocent,tilbygning
+/tilbygning/byggetilladelse-tilbygning/,underguide,Tilbygning,byggetilladelse til tilbygning,tilbygning
+/tilbygning/kvist-pris/,underguide,Tilbygning,ny kvist pris,tilbygning
+/udestue/,hovedguide,Udestue,udestue pris,udestue
+/udestue/udestue-materialer/,underguide,Udestue,udestue aluminium eller træ,udestue
+/udestue/kold-eller-varm-udestue/,underguide,Udestue,kold eller varm udestue,udestue
+/udestue/udestue-byggetilladelse/,underguide,Udestue,udestue byggetilladelse,udestue
+/carport-og-garage/,hovedguide,Carport og garage,carport og garage pris,carport-garage
+/carport-og-garage/carport-pris/,underguide,Carport og garage,carport pris,carport-garage
+/carport-og-garage/garage-pris/,underguide,Carport og garage,garage pris,carport-garage
+/carport-og-garage/carport-regler/,underguide,Carport og garage,carport regler skel,carport-garage
+/carport-og-garage/dobbelt-carport/,underguide,Carport og garage,dobbelt carport pris,carport-garage
+/totalentreprise/,hovedguide,Totalentreprise,totalentreprise,totalentreprise
+/totalentreprise/hovedentreprise-eller-totalentreprise/,underguide,Totalentreprise,hovedentreprise eller totalentreprise,totalentreprise
+/totalentreprise/abt-18/,underguide,Totalentreprise,abt 18,totalentreprise
+/totalentreprise/byggeprogram/,underguide,Totalentreprise,byggeprogram skabelon,totalentreprise
+/fundament/,hovedguide,Fundament,fundament pris,fundament
+/fundament/fundament-pris/,underguide,Fundament,støbe fundament pris,fundament
+/fundament/saetningsskader/,underguide,Fundament,sætningsskader,fundament
+/fundament/understoebning/,underguide,Fundament,understøbning pris,fundament
+/nedrivning/,hovedguide,Nedrivning,nedrivning pris,nedrivning
+/nedrivning/nedrivning-af-hus-pris/,underguide,Nedrivning,nedrivning af hus pris,nedrivning
+/nedrivning/fjerne-baerende-vaeg/,underguide,Nedrivning,fjerne bærende væg pris,nedrivning
+/nedrivning/nedrivningstilladelse/,underguide,Nedrivning,nedrivningstilladelse,nedrivning
+/gulvarbejde/,hovedguide,Gulvarbejde,gulvarbejde pris,gulvarbejde
+/gulvarbejde/gulvafslibning-pris/,underguide,Gulvarbejde,gulvafslibning pris,gulvarbejde
+/gulvarbejde/plankegulv-pris/,underguide,Gulvarbejde,nyt plankegulv pris,gulvarbejde
+/gulvarbejde/gulvvarme-pris/,underguide,Gulvarbejde,gulvvarme pris,gulvarbejde
+/gulvarbejde/klinker-pris/,underguide,Gulvarbejde,lægning af klinker pris,gulvarbejde
+/varmepumpe-luft-til-vand/,hovedguide,Luft-til-vand varmepumpe,luft til vand varmepumpe pris,varmepumpe-luft-til-vand
+/varmepumpe-luft-til-vand/udskift-oliefyr/,underguide,Luft-til-vand varmepumpe,udskiftning af oliefyr til varmepumpe,varmepumpe-luft-til-vand
+/varmepumpe-luft-til-vand/udskift-gasfyr/,underguide,Luft-til-vand varmepumpe,udskiftning af gasfyr til varmepumpe,varmepumpe-luft-til-vand
+/varmepumpe-luft-til-vand/stoej-fra-varmepumpe/,underguide,Luft-til-vand varmepumpe,støj fra varmepumpe regler,varmepumpe-luft-til-vand
+/varmepumpe-luft-til-vand/elforbrug/,underguide,Luft-til-vand varmepumpe,luft til vand varmepumpe elforbrug,varmepumpe-luft-til-vand
+/varmepumpe-luft-til-vand/radiatorer/,underguide,Luft-til-vand varmepumpe,varmepumpe og radiatorer,varmepumpe-luft-til-vand
+/varmepumpe-luft-til-luft/,hovedguide,Luft-til-luft varmepumpe,luft-til-luft varmepumpe pris,varmepumper
+/varmepumpe-luft-til-luft/luft-til-luft-pris/,underguide,Luft-til-luft varmepumpe,luft til luft varmepumpe pris,varmepumper
+/varmepumpe-luft-til-luft/sommerhus/,underguide,Luft-til-luft varmepumpe,varmepumpe til sommerhus,varmepumper
+/varmepumpe-luft-til-luft/koeling/,underguide,Luft-til-luft varmepumpe,varmepumpe med køling,varmepumper
+/jordvarme/,hovedguide,Jordvarme,jordvarme pris,jordvarme
+/jordvarme/jordvarme-besparelse/,underguide,Jordvarme,jordvarme besparelse,jordvarme
+/jordvarme/jordvarme-boring/,underguide,Jordvarme,jordvarme boring pris,jordvarme
+/jordvarme/jordslange/,underguide,Jordvarme,jordslange eller boring,jordvarme
+/solceller/,hovedguide,Solceller,solceller pris,solceller
+/solceller/solceller-stoerrelse/,underguide,Solceller,hvor mange solceller skal jeg have,solceller
+/solceller/tilbagebetaling/,underguide,Solceller,solceller tilbagebetalingstid,solceller
+/solceller/solceller-batteri/,underguide,Solceller,solceller med batteri,solceller
+/solceller/solceller-regler/,underguide,Solceller,solceller regler og tilladelse,solceller
+/solceller/solceller-sommerhus/,underguide,Solceller,solceller sommerhus,solceller
+/isolering/,hovedguide,Isolering,isolering pris,isolering
+/isolering/efterisolering-besparelse/,underguide,Isolering,efterisolering besparelse,isolering
+/isolering/isolering-af-kaelder/,underguide,Isolering,isolering af kælder,isolering
+/isolering/isolering-af-gulv/,underguide,Isolering,isolering af gulv,isolering
+/isolering/krybekaelder/,underguide,Isolering,krybekælder fugt,isolering
+/loftisolering/,hovedguide,Loftisolering,loftisolering pris,loftisolering
+/loftisolering/loftisolering-pris/,underguide,Loftisolering,loftisolering pris pr m2,loftisolering
+/loftisolering/papiruld/,underguide,Loftisolering,indblæsning af papiruld,loftisolering
+/loftisolering/skraavaeg/,underguide,Loftisolering,isolering af skråvægge,loftisolering
+/hulmursisolering/,hovedguide,Hulmursisolering,hulmursisolering pris,hulmursisolering
+/hulmursisolering/materialer/,underguide,Hulmursisolering,granulat eller papiruld i hulmur,hulmursisolering
+/hulmursisolering/problemer/,underguide,Hulmursisolering,hulmursisolering problemer,hulmursisolering
+/energimaerke/,hovedguide,Energimærke,energimærke pris,energimaerke
+/energimaerke/energimaerke-skala/,underguide,Energimærke,energimærke skala a til g,energimaerke
+/energimaerke/energimaerke-ved-salg/,underguide,Energimærke,energimærke ved salg,energimaerke
+/energimaerke/forbedre-energimaerke/,underguide,Energimærke,forbedre energimærke,energimaerke
+/badevaerelse-renovering/,hovedguide,Badeværelsesrenovering,nyt badeværelse pris,badevaerelse
+/badevaerelse-renovering/lille-badevaerelse/,underguide,Badeværelsesrenovering,lille badeværelse pris,badevaerelse
+/badevaerelse-renovering/vaadrumsmembran/,underguide,Badeværelsesrenovering,vådrumsmembran,badevaerelse
+/badevaerelse-renovering/gulvvarme-i-badevaerelse/,underguide,Badeværelsesrenovering,gulvvarme i badeværelse,badevaerelse
+/badevaerelse-renovering/walk-in-bruser/,underguide,Badeværelsesrenovering,walk-in bruser pris,badevaerelse
+/badevaerelse-renovering/badevaerelse-i-lejlighed/,underguide,Badeværelsesrenovering,nyt badeværelse i lejlighed,badevaerelse
+/badevaerelse-renovering/fliser-pris/,underguide,Badeværelsesrenovering,flisearbejde badeværelse pris,badevaerelse
+/vvs/,hovedguide,VVS-arbejde,vvs-arbejde pris,vvs
+/vvs/vvs-timepris/,underguide,VVS-arbejde,vvs timepris,vvs
+/vvs/nyt-toilet/,underguide,VVS-arbejde,nyt toilet pris med montering,vvs
+/vvs/varmtvandsbeholder/,underguide,VVS-arbejde,ny varmtvandsbeholder pris,vvs
+/vvs/vandrør/,underguide,VVS-arbejde,udskiftning af vandrør,vvs
+/kloakrenovering/,hovedguide,Kloakrenovering,kloakrenovering pris,kloak
+/kloakrenovering/hvem-ejer-kloakken/,underguide,Kloakrenovering,hvem ejer kloakken stikledning,kloak
+/kloakrenovering/rotter-i-kloakken/,underguide,Kloakrenovering,rotter i kloakken,kloak
+/kloakrenovering/separatkloakering/,underguide,Kloakrenovering,separatkloakering,kloak
+/kloakrenovering/kloak-stopper/,underguide,Kloakrenovering,kloak stopper,kloak
+/stroempeforing/,hovedguide,Strømpeforing,strømpeforing pris,strompeforing
+/stroempeforing/stroempeforing-eller-opgravning/,underguide,Strømpeforing,strømpeforing eller opgravning,strompeforing
+/stroempeforing/holdbarhed/,underguide,Strømpeforing,strømpeforing holdbarhed,strompeforing
+/tv-inspektion-kloak/,hovedguide,TV-inspektion af kloak,tv inspektion kloak,tv-inspektion
+/tv-inspektion-kloak/tv-inspektion-pris/,underguide,TV-inspektion af kloak,tv inspektion kloak pris,tv-inspektion
+/tv-inspektion-kloak/husekoeb/,underguide,TV-inspektion af kloak,kloakinspektion ved huskøb,tv-inspektion
+/omfangsdraen/,hovedguide,Omfangsdræn,omfangsdræn pris,omfangsdraen
+/omfangsdraen/omfangsdraen-selv/,underguide,Omfangsdræn,lægge omfangsdræn selv,omfangsdraen
+/omfangsdraen/fugt-i-kaelder/,underguide,Omfangsdræn,fugt i kælder,omfangsdraen
+/omfangsdraen/draen-regler/,underguide,Omfangsdræn,dræn regler,omfangsdraen
+/faskine/,hovedguide,Faskine og regnvandsanlæg,faskine,regnvandsanlaeg
+/faskine/faskine-pris/,underguide,Faskine og regnvandsanlæg,faskine pris,regnvandsanlaeg
+/faskine/faskine-krav/,underguide,Faskine og regnvandsanlæg,faskine krav og afstand,regnvandsanlaeg
+/faskine/regnvandsopsamling/,underguide,Faskine og regnvandsanlæg,regnvandsopsamling,regnvandsanlaeg
+/vandskade/,hovedguide,Vandskade,vandskade hvad gør man,vandskade
+/vandskade/vandskade-forsikring/,underguide,Vandskade,vandskade forsikring,vandskade
+/vandskade/affugtning/,underguide,Vandskade,affugtning efter vandskade,vandskade
+/vandskade/vandskade-lejlighed/,underguide,Vandskade,vandskade i lejlighed,vandskade
+/skimmelsvamp/,hovedguide,Skimmelsvamp,skimmelsvamp i huset,skimmelsvamp
+/skimmelsvamp/fjernelse-pris/,underguide,Skimmelsvamp,fjernelse af skimmelsvamp pris,skimmelsvamp
+/skimmelsvamp/skimmelsvamp-test/,underguide,Skimmelsvamp,skimmelsvamp test,skimmelsvamp
+/skimmelsvamp/skimmel-i-badevaerelse/,underguide,Skimmelsvamp,skimmel i badeværelse,skimmelsvamp
+/skimmelsvamp/skimmel-paa-loftet/,underguide,Skimmelsvamp,skimmelsvamp på loftet,skimmelsvamp
+/asbestsanering/,hovedguide,Asbestsanering,asbestsanering pris,asbest
+/asbestsanering/asbest-regler/,underguide,Asbestsanering,asbest regler privat,asbest
+/asbestsanering/asbest-test/,underguide,Asbestsanering,asbest test,asbest
+/asbestsanering/asbest-i-gulv/,underguide,Asbestsanering,asbest i gulvbelægning,asbest
+/belaegning/,hovedguide,Belægning og brolægning,belægning og brolægning pris,belaegning
+/belaegning/belaegning-pris/,underguide,Belægning og brolægning,belægning pris pr m2,belaegning
+/belaegning/indkoersel-pris/,underguide,Belægning og brolægning,ny indkørsel pris,belaegning
+/belaegning/terrasse-fliser/,underguide,Belægning og brolægning,terrasse med fliser pris,belaegning
+/belaegning/chaussesten/,underguide,Belægning og brolægning,chaussesten pris,belaegning
+/anlaegsarbejde/,hovedguide,Anlægsarbejde,anlægsarbejde pris,anlaeg
+/anlaegsarbejde/jordarbejde-pris/,underguide,Anlægsarbejde,jordarbejde pris,anlaeg
+/anlaegsarbejde/terraenregulering/,underguide,Anlægsarbejde,terrænregulering,anlaeg
+/anlaegsarbejde/minigraver/,underguide,Anlægsarbejde,minigraver med fører pris,anlaeg
+/gartner/,hovedguide,Gartner,gartner pris,gartner
+/gartner/gartner-pris/,underguide,Gartner,gartner timepris,gartner
+/gartner/haveanlaeg-pris/,underguide,Gartner,nyt haveanlæg pris,gartner
+/gartner/haekklipning/,underguide,Gartner,hækklipning pris,gartner
+/hegn/,hovedguide,Hegn,hegn pris,hegn
+/hegn/hegn-pris/,underguide,Hegn,hegn pris pr meter,hegn
+/hegn/hegnsloven/,underguide,Hegn,hegnsloven,hegn
+/hegn/stakit/,underguide,Hegn,stakit pris,hegn
+/hegn/raftehegn/,underguide,Hegn,raftehegn pris,hegn
+/toemrer/,hovedguide,Tømrer,tømrer pris,toemrer
+/toemrer/toemrer-timepris/,underguide,Tømrer,tømrer timepris,toemrer
+/toemrer/traeterrasse-pris/,underguide,Tømrer,træterrasse pris,toemrer
+/toemrer/skillevaeg/,underguide,Tømrer,ny skillevæg pris,toemrer
+/murer/,hovedguide,Murer,murer pris,murer
+/murer/murer-timepris/,underguide,Murer,murer timepris,murer
+/murer/flisearbejde/,underguide,Murer,flisearbejde pris,murer
+/murer/skorsten/,underguide,Murer,nedtagning af skorsten pris,murer
+/maler/,hovedguide,Maler,maler pris,malere
+/maler/maler-pris/,underguide,Maler,maler pris pr m2,malere
+/maler/male-lejlighed/,underguide,Maler,male lejlighed pris,malere
+/maler/male-vinduer/,underguide,Maler,male vinduer pris,malere
+/elektriker/,hovedguide,Elektriker,elektriker pris,elektriker
+/elektriker/elektriker-timepris/,underguide,Elektriker,elektriker timepris,elektriker
+/elektriker/ny-eltavle/,underguide,Elektriker,ny eltavle pris,elektriker
+/elektriker/ladestander/,underguide,Elektriker,ladestander installation pris,elektriker
+/elektriker/ekstra-stikkontakt/,underguide,Elektriker,ny stikkontakt pris,elektriker
+/eltjek/,hovedguide,Eltjek,eltjek pris,eltjek
+/eltjek/eltjek-ved-huskoeb/,underguide,Eltjek,eltjek ved huskøb,eltjek
+/eltjek/hfi-relae/,underguide,Eltjek,hfi relæ udskiftning,eltjek
+/handyman/,hovedguide,Handyman,handyman pris,handyman
+/handyman/handyman-timepris/,underguide,Handyman,handyman timepris,handyman
+/handyman/smaaopgaver/,underguide,Handyman,handyman små opgaver,handyman
+/haandvaerkertilbud/,hovedguide,Håndværkertilbud,håndværkertilbud,haandvaerker
+/haandvaerkertilbud/sammenlign-tilbud/,underguide,Håndværkertilbud,sammenligne håndværkertilbud,haandvaerker
+/haandvaerkertilbud/ab-forbruger/,underguide,Håndværkertilbud,ab forbruger,haandvaerker
+/haandvaerkertilbud/haandvaerkerfradrag/,underguide,Håndværkertilbud,håndværkerfradrag,haandvaerker
+/haandvaerkertilbud/klage-over-haandvaerker/,underguide,Håndværkertilbud,klage over håndværker,haandvaerker
+/byggetilbud/,hovedguide,Byggetilbud,byggetilbud,byggetilbud
+/byggetilbud/tjekliste/,underguide,Byggetilbud,tjekliste til byggetilbud,byggetilbud
+/byggetilbud/fast-pris-eller-overslag/,underguide,Byggetilbud,fast pris eller overslag,byggetilbud
+/bygherreraadgivning/,hovedguide,Bygherrerådgivning,bygherrerådgivning,bygherreraadgivning
+/bygherreraadgivning/bygherreraadgiver-pris/,underguide,Bygherrerådgivning,bygherrerådgiver pris,bygherreraadgivning
+/bygherreraadgivning/byggetilsyn/,underguide,Bygherrerådgivning,byggetilsyn privat,bygherreraadgivning
+/byggesagkyndig/,hovedguide,Byggesagkyndig,byggesagkyndig pris,byggesagkyndig
+/byggesagkyndig/bygningssagkyndig/,underguide,Byggesagkyndig,byggesagkyndig eller bygningssagkyndig,byggesagkyndig
+/byggesagkyndig/gennemgang-foer-koeb/,underguide,Byggesagkyndig,gennemgang af hus før køb,byggesagkyndig
+/tilstandsrapport/,hovedguide,Tilstandsrapport,tilstandsrapport pris,tilstandsrapport
+/tilstandsrapport/tilstandsrapport-gyldighed/,underguide,Tilstandsrapport,hvor længe gælder en tilstandsrapport,tilstandsrapport
+/tilstandsrapport/karakterer/,underguide,Tilstandsrapport,tilstandsrapport k0 k1 k2 k3,tilstandsrapport
+/tilstandsrapport/elinstallationsrapport/,underguide,Tilstandsrapport,elinstallationsrapport,tilstandsrapport
+/faldstammerenovering/,hovedguide,Faldstammerenovering,faldstammerenovering pris,faldstammerenovering
+/faldstammerenovering/hvad-betyder-det-for-beboerne/,underguide,Faldstammerenovering,faldstammerenovering beboer,faldstammerenovering
+/faldstammerenovering/finansiering/,underguide,Faldstammerenovering,faldstammerenovering finansiering,faldstammerenovering
+/faldstammerenovering/tidsplan/,underguide,Faldstammerenovering,faldstammerenovering tidsplan,faldstammerenovering
+/renovering-af-opgang/,hovedguide,Renovering af opgang,renovering af opgang,opgang
+/renovering-af-opgang/male-opgang/,underguide,Renovering af opgang,male opgang pris,opgang
+/renovering-af-opgang/belysning-i-opgang/,underguide,Renovering af opgang,belysning i opgang,opgang
+/doertelefonanlaeg/,hovedguide,Dørtelefonanlæg,dørtelefonanlæg pris,dortelefonanlaeg
+/doertelefonanlaeg/video-doertelefon/,underguide,Dørtelefonanlæg,video dørtelefon lejlighed,dortelefonanlaeg
+/doertelefonanlaeg/adgangskontrol/,underguide,Dørtelefonanlæg,adgangskontrol brik opgang,dortelefonanlaeg
+/vedligeholdelsesplan/,hovedguide,Vedligeholdelsesplan,vedligeholdelsesplan,vedligeholdelsesplaner
+/vedligeholdelsesplan/andelsboligforening/,underguide,Vedligeholdelsesplan,vedligeholdelsesplan andelsboligforening,vedligeholdelsesplaner
+/vedligeholdelsesplan/ejerforening/,underguide,Vedligeholdelsesplan,vedligeholdelsesplan ejerforening,vedligeholdelsesplaner
+/altaner/,hovedguide,Altaner,nye altaner pris,altaner
+/altaner/fransk-altan/,underguide,Altaner,fransk altan pris,altaner
+/altaner/altan-andelsbolig/,underguide,Altaner,altan andelsbolig,altaner
+/ejendomsservice/,hovedguide,Ejendomsservice,ejendomsservice,ejendomsservice
+/ejendomsservice/vicevaert-pris/,underguide,Ejendomsservice,vicevært pris,ejendomsservice
+/ejendomsservice/trappevask/,underguide,Ejendomsservice,trappevask pris,ejendomsservice
+/ejendomsservice/snerydning/,underguide,Ejendomsservice,snerydning pris,ejendomsservice
