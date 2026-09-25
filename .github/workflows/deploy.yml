@@ -1,4 +1,4 @@
-name: Deploy til Simply
+name: Byg og deploy til Simply
 
 on:
   push:
@@ -9,10 +9,15 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Hent koden
-        uses: actions/checkout@v4
-
-      - name: Upload via FTP til Simply
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Byg sitet
+        run: |
+          pip install markdown
+          python build.py
+      - name: Upload til Simply
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
@@ -20,10 +25,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
           port: 21
-          local-dir: ./
+          local-dir: ./public/
           server-dir: public_html/
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/.github/**
-            README.md
